@@ -5,6 +5,8 @@
 ## Overview
 This is a Flask web app which recognize the digit you draw.
 
+## Live Link : https://digit-tracker.herokuapp.com/
+
 ## Input
 
 1. Just draw the digit on the white space provided.
